@@ -1,0 +1,5 @@
+{
+  "name": "Market Matrix Demo",
+  "description": "An InsurTech demonstration matching trucking risks to carrier appetites and generating ACORD-style JSON submissions.",
+  "requestFramePermissions": []
+}
